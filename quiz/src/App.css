@@ -1,0 +1,172 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(240, 35, 35); 
+}
+
+h3 {
+  color: rgb(0, 238, 255);
+  display: flex; 
+  text-align: center;
+  justify-content: center;
+  margin-top: 15vw;
+  font-size: 2vw;
+}
+
+.play {
+  background-color: #050000; 
+  color: rgb(233, 231, 240);
+  width: 14vw; 
+  border-radius: 2vw; 
+  height: 80px;
+  margin-top: 8vw;
+}
+
+.quiz-game {
+  background-color: rgb(242, 255, 0);
+  width: 75vw;
+  height: 75vh; 
+  padding: 2vw; 
+  margin-top: 20vh; 
+  border-radius: 2vw;
+
+}
+
+h1,
+.question {
+  text-align: center;
+}
+
+.question {
+  margin-top: 4vw; 
+}
+
+.options {
+  display: grid;
+
+  gap: 2vw; 
+  margin: 6vw 2vw 2vw 4vw; 
+}
+
+.prev {
+  background-color: #4682d2;
+}
+
+.next {
+  background-color: #e2ffe2; 
+}
+
+.quit {
+  background-color: #afa6a5; 
+}
+
+.finish {
+  background-color: #9b59b6; 
+}
+
+.result {
+  color: green; 
+  text-align: center;
+}
+
+.game2 {
+  margin-top: 5vw;
+  background-color: peachpuff;
+  width: 45vw; 
+  height: 45vh; 
+}
+
+h4 {
+  text-align: center;
+}
+
+.blue {
+  color: #3498db; 
+  font-size: 1.5vw; 
+  text-align: center;
+  font-weight: bold;
+}
+
+.eachDetail {
+  display: flex;
+  justify-content: space-between;
+  margin: 2vw 4vw; 
+}
+
+.twoBtns {
+  margin: 2vw 30%; 
+  display: flex;
+  justify-content: space-between;
+}
+
+.again {
+  height: 2vw;
+  width: 5vw;
+ background-color: green;
+ border-radius: 1vw;
+}
+
+.back {
+  height: 2vw;
+  width: 6vw;
+ background-color: red;
+ border-radius: 0.5vw;
+}
+
+.end {
+  margin-top: 5%;
+}
+
+.game {
+  background-color: skyblue;
+  width: 75vw;
+  height: 70vh;
+  padding: 15px;
+  margin-top: 3%;
+}
+
+.quiz-option {
+  background-color: rgb(204, 34, 34);
+  height: 35px;
+  border-radius: 15px;
+  text-align: center;
+  width: 90%;
+  color: rgb(0, 13, 252);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quiz-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 35% 0px 30%;
+}
+
+.quiz-prev,
+.quiz-next,
+.quiz-quit,
+.quiz-finish {
+  border-radius: 30px;
+  padding: 10px 12px;
+  background: #ba0000;
+}
+
+.quiz-prev {
+  background-color: saddlebrown;
+}
+
+.quiz-next {
+  background-color: green;
+}
+
+.quiz-quit {
+  background-color: red;
+}
+
+.quiz-finish {
+  background-color: rgb(245, 212, 212);
+}

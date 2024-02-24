@@ -1,0 +1,134 @@
+[
+    {
+        "question": "which country has the highest population?",
+        "optionA": "India",
+        "optionB": "chaina",
+        "optionC": "usa",
+        "optionD": "greman",
+        "answer": "India"
+    },
+  
+    {
+        "question": "What does the term IPO stand for in thestock market?",
+        "optionA": " Initial Profit Offering",
+        "optionB": " Initial Public Offering",
+        "optionC": "International Portfolio Option",
+        "optionD": " Investor Protection Order",
+        "answer": " Initial Public Offering"
+    },
+  
+    {
+        "question": "Which of the following is NOT a common type of stock?",
+        "optionA": "Preferred Stock",
+        "optionB": "Blue Chip Stock",
+        "optionC": "Treasury Stock",
+        "optionD": " Bond Stock",
+        "answer": " Bond Stock"
+    },
+  
+    {
+        "question": "hat does the term NYSE stand in the stock market?",
+        "optionA": " New York Securities Exchange",
+        "optionB": " National Yield & Stock Exchange",
+        "optionC": " Nasdaq York Stock Exchange",
+        "optionD": " [New York Stock Exchange",
+        "answer": " National Yield & Stock Exchange"
+    },
+  
+    {
+        "question": "What is the function of a stock index?",
+        "optionA": "To predict future stock prices",
+        "optionB": "To measure the performance of a specific group of stocks",
+        "optionC": " To regulate the stock market",
+        "optionD": "To provide loans to investors",
+        "answer": "To measure the performance of a specific group of stocks"
+    },
+  
+    {
+        "question": "Which planet is known as the Red Planet",
+        "optionA": "Venus",
+        "optionB": "Mars",
+        "optionC": " Jupiter",
+        "optionD": "Saturn",
+        "answer": "Mars"
+    },
+  
+    {
+        "question": "What is the capital city of Australia?",
+        "optionA": "Sydney",
+        "optionB": "Melbourne",
+        "optionC": "Canberra",
+        "optionD": "Brisbane",
+        "answer": "Canberra"
+    },
+  
+    {
+        "question": "Who painted the famous artwork Mona Lisa?",
+        "optionA": "Vincent van Gogh",
+        "optionB": "Leonardo da Vinci",
+        "optionC": "Pablo Picasso",
+        "optionD": "Michelangelo",
+        "answer": "Leonardo da Vinci"
+    },
+  
+    {
+        "question": "What is the chemical symbol for water?",
+        "optionA": "O2",
+        "optionB": "CO2",
+        "optionC": "h2O",
+        "optionD": "Nacl",
+        "answer": "H2O"
+    },
+  
+    {
+        "question": "Who wrote the play Romeo and Juliet?",
+        "optionA": "George Bernard Shaw",
+        "optionB": "Oscar Wilde",
+        "optionC": "William Shakespeare",
+        "optionD": "Jane Austen",
+        "answer": "William Shakespeare"
+    },
+  
+    {
+        "question": "Which sport is played with a shuttlecock?",
+        "optionA": "Tennis",
+        "optionB": "Badminton",
+        "optionC": "gold",
+        "optionD": "Cricket",
+        "answer": "Badminton"
+    },
+    {
+        "question": " In which country did the sport of judo originate?",
+        "optionA": "China",
+        "optionB": "Japan",
+        "optionC": "Brazil",
+        "optionD": "Russia",
+        "answer": "Japan"
+    },
+    {
+        "question": "How many players are there on a soccer (football) team, including the goalkeeper?",
+        "optionA": "9",
+        "optionB": "10",
+        "optionC": "11",
+        "optionD": "12",
+        "answer": "11"
+    },
+
+    {
+        "question": "Who invented the electric light bulb?",
+        "optionA": "Tom Cruise",
+        "optionB": "Barack Obama",
+        "optionC": "Wole Soyinka",
+        "optionD": "Thomas Edison",
+        "answer": "Thomas Edison"
+    },
+  
+    {
+        "question": "Which of the following is not a traditional event in the Winter Olympics?",
+        "optionA": "Bobsleigh",
+        "optionB": "Ski Jumping",
+        "optionC": "Synchronized Swimming",
+        "optionD": "Ice Hockey",
+        "answer": "Synchronized Swimming"
+    }
+  ]
